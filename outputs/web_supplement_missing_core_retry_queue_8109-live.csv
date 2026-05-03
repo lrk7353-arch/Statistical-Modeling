@@ -1,0 +1,20 @@
+﻿数据集ID,detail_url,download_formats,record_count,data_size,field_names,detail_spatial_scope,detail_time_scope,scrape_error,scraped_at
+2438,https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=2438&&companyFlag=0,,290,15 KB,,本市,2020年-2025年,,2026-05-01T15:12:29
+2409,https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=2409&&companyFlag=0,,30124,1 MB,,本市,2020年-2025年,,2026-05-01T15:14:20
+2399,https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=2399&&companyFlag=0,,5342,240 KB,,本市,2020年-2025年,,2026-05-01T15:14:46
+AD4002012009,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AD4002012009&&companyFlag=0,,1081,216 KB,发证单位;发证日期;姓名;证书名称;证书编号,本市,2015年,,2026-05-01T15:50:36
+AD4002015007,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AD4002015007&&companyFlag=0,,1082,124 KB,姓名;执业单位;注册号,本市,2018年-2018年,,2026-05-01T15:51:05
+1847,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1847&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,44,12 KB,,徐汇区,2020年-2025年,,2026-05-01T15:54:22
+1845,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1845&&companyFlag=0,XLSX,104,37 KB,,徐汇区,2020年-2025年,,2026-05-01T15:55:00
+1844,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1844&&companyFlag=0,RDF;XML;CSV;JSON,106,65 KB,,徐汇区,2020年-2025年,,2026-05-01T15:55:30
+1843,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1843&&companyFlag=0,,72,83 KB,,徐汇区,2020年-2025年,,2026-05-01T15:55:59
+1842,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1842&&companyFlag=0,RDF;XML;CSV;JSON,74,163 KB,,徐汇区,2020年-2025年,,2026-05-01T15:56:29
+1840,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1840&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,12,21 KB,,徐汇区,2020年-2025年,,2026-05-01T15:57:07
+1839,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1839&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,12,22 KB,,徐汇区,2020年-2025年,,2026-05-01T15:57:37
+1253,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1253&&companyFlag=0,,5394,586 KB,内水位;外水位;数据日志时间;水闸名称;水闸编号,崇明区,2020年-2025年,,2026-05-01T15:58:06
+1000,https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=1000&&companyFlag=0,,724470,42 MB,endtime;newscontent;newslinkurl;newsname;newssendtime;newstype;relatcolumn;subtitle,杨浦区,2019年-2025年,,2026-05-01T15:59:35
+1815,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1815&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,14,20 KB,,徐汇区,2019年-2025年,,2026-05-01T16:03:27
+1001,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1001&&companyFlag=0,,717,132 KB,主体简称;农场名称;经营者姓名;联系电话;详细地址,崇明区,2020年-2020年,,2026-05-01T16:06:55
+1765,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1765&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,26,12 KB,,徐汇区,2019年-2025年,,2026-05-01T16:09:13
+1762,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1762&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,20,10 KB,,徐汇区,2019年-2025年,,2026-05-01T16:10:02
+1759,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1759&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,366,29 KB,,徐汇区,2019年-2025年,,2026-05-01T16:10:40

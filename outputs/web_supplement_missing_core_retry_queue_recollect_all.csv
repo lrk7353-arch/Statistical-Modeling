@@ -1,0 +1,56 @@
+﻿数据集ID,detail_url,download_formats,record_count,data_size,field_names,detail_spatial_scope,detail_time_scope,scrape_error,scraped_at
+6028,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=6028&&companyFlag=0,,61,52 KB,学校名称;学校地址;学生宿舍寄宿条件（生均面积M2）;所属乡镇、街道、工业区;教学用房教室数（间）;校舍占地面积（亩）;校舍建筑面积（M2）;活动场地（亩）;目前在校学生人数（人）,金山区,2020年,,2026-05-01T14:43:32
+5677,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=5677&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,101,16 KB,,浦东新区,2019年,,2026-05-01T14:50:21
+2922,https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=2922&&companyFlag=0,,-,-,91310112MACJDH8P9R;change_afnote;change_benote;change_date;change_item;corp_info_ext_id;id;unisc_id;validity;经营范围变更,本市,2020年-2025年,,2026-05-01T15:01:55
+2438,https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=2438&&companyFlag=0,,290,15 KB,,本市,2020年-2025年,,2026-05-01T15:12:29
+2409,https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=2409&&companyFlag=0,,30124,1 MB,,本市,2020年-2025年,,2026-05-01T15:14:20
+2399,https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=2399&&companyFlag=0,,5342,240 KB,,本市,2020年-2025年,,2026-05-01T15:14:46
+AD4002012009,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AD4002012009&&companyFlag=0,,1081,216 KB,发证单位;发证日期;姓名;证书名称;证书编号,本市,2015年,,2026-05-01T15:50:36
+AD4002015007,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AD4002015007&&companyFlag=0,,1082,124 KB,姓名;执业单位;注册号,本市,2018年-2018年,,2026-05-01T15:51:05
+1847,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1847&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,44,12 KB,,徐汇区,2020年-2025年,,2026-05-01T15:54:22
+1845,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1845&&companyFlag=0,XLSX,104,37 KB,,徐汇区,2020年-2025年,,2026-05-01T15:55:00
+1844,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1844&&companyFlag=0,RDF;XML;CSV;JSON,106,65 KB,,徐汇区,2020年-2025年,,2026-05-01T15:55:30
+1843,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1843&&companyFlag=0,,72,83 KB,,徐汇区,2020年-2025年,,2026-05-01T15:55:59
+1842,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1842&&companyFlag=0,RDF;XML;CSV;JSON,74,163 KB,,徐汇区,2020年-2025年,,2026-05-01T15:56:29
+1840,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1840&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,12,21 KB,,徐汇区,2020年-2025年,,2026-05-01T15:57:07
+1839,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1839&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,12,22 KB,,徐汇区,2020年-2025年,,2026-05-01T15:57:37
+1253,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1253&&companyFlag=0,,5394,586 KB,内水位;外水位;数据日志时间;水闸名称;水闸编号,崇明区,2020年-2025年,,2026-05-01T15:58:06
+1000,https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=1000&&companyFlag=0,,724470,42 MB,endtime;newscontent;newslinkurl;newsname;newssendtime;newstype;relatcolumn;subtitle,杨浦区,2019年-2025年,,2026-05-01T15:59:35
+1815,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1815&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,14,20 KB,,徐汇区,2019年-2025年,,2026-05-01T16:03:27
+1001,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1001&&companyFlag=0,,717,132 KB,主体简称;农场名称;经营者姓名;联系电话;详细地址,崇明区,2020年-2020年,,2026-05-01T16:06:55
+1765,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1765&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,26,12 KB,,徐汇区,2019年-2025年,,2026-05-01T16:09:13
+1762,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1762&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,20,10 KB,,徐汇区,2019年-2025年,,2026-05-01T16:10:02
+1759,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1759&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,366,29 KB,,徐汇区,2019年-2025年,,2026-05-01T16:10:40
+1386,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1386&&companyFlag=0,,178,55 KB,抽查检查内容;抽查检查发现问题;抽查检查日期;抽查检查结果名称;数据来源单位名称;监管主体名称;统一社会信用代码;营业执照注册号,崇明区,2018年-2019年,,2026-05-01T16:43:01
+1368,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1368&&companyFlag=0,,-,-,地址;所属街道高校;机构名称;联系人;联系电话,徐汇区,2019年-2025年,,2026-05-01T16:44:49
+2c90e4f36343477901636340b96f013e,https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=2c90e4f36343477901636340b96f013e&&companyFlag=0,,83,2 KB,,本市,2018年-2020年,,2026-05-01T17:53:50
+AC5002018005,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AC5002018005&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,143,127 KB,,本市,2018年-2024年,,2026-05-01T17:54:45
+AA9002017008,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AA9002017008&&companyFlag=0,,-,-,主管部门;事项名称;办理依据;办理程序;收费标准;条线;申办条件;申办表格;申请材料,本市,2017年-2025年,,2026-05-01T18:03:36
+AH0002017004,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AH0002017004&&companyFlag=0,,94,39 KB,产品品牌;生产企业;编号,本市,2018年-2018年,,2026-05-01T18:08:39
+AC5002017020,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AC5002017020&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,325,123 KB,,本市,2017年-2024年,,2026-05-01T18:12:37
+AC5002017007,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AC5002017007&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,350,127 KB,,本市,2017年-2024年,,2026-05-01T18:14:41
+AC5002017004,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AC5002017004&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,105,108 KB,,本市,2017年-2024年,,2026-05-01T18:17:59
+AH1002015027,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AH1002015027&&companyFlag=0,,30,24 KB,企业名称;企业地址;企业电话;许可证号(备案证号),本市,2018年-2018年,,2026-05-01T18:24:58
+AH1002015014,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AH1002015014&&companyFlag=0,,297,62 KB,企业名称;地址;许可证号,本市,2018年-2018年,,2026-05-01T18:43:02
+AH1002015013,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AH1002015013&&companyFlag=0,,32234,5 MB,业户名称;注册地址;许可证号,本市,2018年-2018年,,2026-05-01T18:43:31
+AC4002015011,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AC4002015011&&companyFlag=0,,87,40 KB,单位名称;地址邮编;联系人;联系电话;证书等级;证书编号;评价范围,本市,2015年-2024年,,2026-05-01T18:47:32
+AC5002015052,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AC5002015052&&companyFlag=0,RDF;XML;CSV;JSON,86,44 KB,,本市,1978年-2017年,,2026-05-01T18:54:50
+AC5002015021,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AC5002015021&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,545,181 KB,,本市,2015年-2024年,,2026-05-01T18:55:36
+AC5002015032,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AC5002015032&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,176,40 KB,,本市,1978年-2017年,,2026-05-01T18:56:51
+AC5002015055,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AC5002015055&&companyFlag=0,RDF;XML;CSV;JSON,38,129 KB,,本市,2020年-2024年,,2026-05-01T18:57:37
+AC5002015051,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AC5002015051&&companyFlag=0,RDF;XML;CSV;JSON,85,56 KB,,本市,1978年-2017年,,2026-05-01T18:58:57
+AC5002015039,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AC5002015039&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,405,165 KB,,本市,1978年-2022年,,2026-05-01T18:59:27
+AC5002015026,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AC5002015026&&companyFlag=0,,46,26 KB,年份,本市,2017年,,2026-05-01T19:00:05
+AC5002015033,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AC5002015033&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,80,32 KB,,本市,2014年,,2026-05-01T19:00:35
+AC5002015023,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AC5002015023&&companyFlag=0,,43,24 KB,外商、港澳台经济;股份制经济,本市,2017年,,2026-05-01T19:01:21
+AC5002015045,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AC5002015045&&companyFlag=0,RDF;XML;CSV;JSON,416,202 KB,,本市,2019年-2024年,,2026-05-01T19:02:27
+AG8002014018,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AG8002014018&&companyFlag=0,,55,146 KB,产业类型;月份;用电量,本市,2013年-2018年,,2026-05-01T19:11:03
+AG8002014016,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AG8002014016&&companyFlag=0,,88,36 KB,供电公司;地址;服务内容;服务范围;网点名称;联系电话;营业时间,本市,2017年-2017年,,2026-05-01T19:11:42
+AG8002014008,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AG8002014008&&companyFlag=0,,176,181 KB,主要产品;企业名称;地址,本市,2014年-2020年,,2026-05-01T19:12:45
+AG8002014005,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AG8002014005&&companyFlag=0,,16,38 KB,投资数;月份;行业,本市,2017年-2017年,,2026-05-01T19:13:14
+AG8002014002,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AG8002014002&&companyFlag=0,,1727,340 KB,场所名称;场所地址;场所序号;场所类型;行政区划,本市,2024年-2024年,,2026-05-01T19:13:53
+AD4002012006,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AD4002012006&&companyFlag=0,,15,28 KB,信访接待地址;咨询;所属区;投诉时间安排;投诉电话;投诉的联系方式（网址或电子邮箱）;接待时间安排;来信邮寄地址;电话咨询;网上受理咨询;邮政编码;集团名称,本市,2016年-2016年,,2026-05-01T19:19:57
+10465,https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=10465&&companyFlag=0,,3376,177 KB,,闵行区,2022年-2022年,,2026-05-01T19:20:40
+10462,https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=10462&&companyFlag=0,,97,4 KB,,闵行区,2022年-2022年,,2026-05-01T19:21:06
+10467,https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=10467&&companyFlag=0,,45233,7 MB,,闵行区,2022年-2022年,,2026-05-01T19:21:32
+10474,https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=10474&&companyFlag=0,,509,38 KB,,闵行区,2022年-2022年,,2026-05-01T19:22:49

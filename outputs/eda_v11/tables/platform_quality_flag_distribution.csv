@@ -1,0 +1,7 @@
+﻿flag,count,share
+has_data_sample,9206,0.9649895178197065
+has_standard_field_description,7412,0.7769392033542977
+low_field_count_flag,729,0.07641509433962264
+suspicious_field_names_flag,722,0.07568134171907757
+recommended_names_suspicious_flag,3305,0.34643605870020966
+date_order_anomaly,840,0.0880503144654088

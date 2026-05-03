@@ -1,0 +1,11 @@
+Round 3 recollect final summary
+generated_at=2026-05-02T17:27:36
+master_rows=9793
+checkpoint_rows=9793
+result_rows=1488
+final_status_counts={'success': 9667, 'unavailable': 126}
+action_counts={'checked_no_improvement': 752, 'upsert_improved_success': 579, 'upsert_unavailable': 126, 'skip_success_regression': 31}
+residual_rows=1704
+residual_issue_counts={'suspicious_field_names': 727, 'field_terms_too_few': 816, 'missing_download_formats': 218, 'missing_record_count': 158, 'missing_field_names': 208, 'missing_data_size': 157, 'missing_detail_spatial_scope': 157, 'missing_detail_time_scope': 157, 'unavailable': 126}
+results=\\wsl.localhost\Ubuntu\home\konglingrui\Statistic\Statistics Collect\outputs\round3_recollect_results.csv
+residual=\\wsl.localhost\Ubuntu\home\konglingrui\Statistic\Statistics Collect\outputs\round3_residual_missing_or_unavailable.csv

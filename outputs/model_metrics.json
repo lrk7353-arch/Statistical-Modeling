@@ -1,0 +1,9 @@
+{
+  "rows": 9793,
+  "folds": 5,
+  "r2_oof": 0.8746091277048738,
+  "mae_oof": 0.057900361294658434,
+  "candidate_potential_threshold": 0.7,
+  "candidate_actual_threshold": 0.5,
+  "generated_at": "2026-04-28T17:36:12"
+}

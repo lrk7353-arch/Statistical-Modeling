@@ -1,0 +1,4 @@
+﻿数据集ID,detail_url,download_formats,record_count,data_size,field_names,detail_spatial_scope,detail_time_scope,scrape_error,scraped_at
+6028,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=6028&&companyFlag=0,,61,52 KB,学校名称;学校地址;学生宿舍寄宿条件（生均面积M2）;所属乡镇、街道、工业区;教学用房教室数（间）;校舍占地面积（亩）;校舍建筑面积（M2）;活动场地（亩）;目前在校学生人数（人）,金山区,2020年,,2026-05-01T14:43:32
+5677,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=5677&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,101,16 KB,,浦东新区,2019年,,2026-05-01T14:50:21
+2922,https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=2922&&companyFlag=0,,-,-,91310112MACJDH8P9R;change_afnote;change_benote;change_date;change_item;corp_info_ext_id;id;unisc_id;validity;经营范围变更,本市,2020年-2025年,,2026-05-01T15:01:55

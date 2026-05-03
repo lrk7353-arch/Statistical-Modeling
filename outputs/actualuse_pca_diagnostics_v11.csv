@@ -1,0 +1,3 @@
+﻿resource_type,n,input_cols,explained_variance_ratio,direction_corr_after,loadings
+数据产品,4623,view_score;download_score,0.9155039588604398,0.9995740052409409,view_score=0.707107;download_score=0.707107
+数据接口,4917,view_score;api_call_score,0.7858457481673468,0.9987046033965572,view_score=0.707107;api_call_score=0.707107

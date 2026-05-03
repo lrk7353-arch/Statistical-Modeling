@@ -1,0 +1,53 @@
+﻿detail_url,download_formats,record_count,data_size,field_names,scraped_at,missing_core_fields
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=6787&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,509.0,55 KB,,2026-04-30T18:36:20,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=7604&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,19.0,5 KB,,2026-04-30T18:37:56,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=7531&&companyFlag=0,RDF;XML;CSV;JSON,26.0,7 KB,,2026-04-30T18:40:27,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1308&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,873.0,1 MB,,2026-04-30T18:53:36,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AA4002016009&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,38.0,11 KB,,2026-04-30T18:55:23,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=7489&&companyFlag=0,,,,,2026-04-30T18:58:13,download_formats;record_count;data_size;field_names
+https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=7494&&companyFlag=0,,,,,2026-04-30T18:58:47,download_formats;record_count;data_size;field_names
+https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=1399&&companyFlag=0,,,,,2026-04-30T18:59:21,download_formats;record_count;data_size;field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=7484&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,10.0,23 KB,,2026-04-30T19:01:25,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=7475&&companyFlag=0,,,52 KB,项目名称,2026-04-30T19:02:35,download_formats;record_count
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=7473&&companyFlag=0,RDF;XML;CSV;JSON,204.0,81 KB,,2026-04-30T19:03:44,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=7482&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,344.0,25 KB,,2026-04-30T19:06:53,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=7470&&companyFlag=0,XLSX,54.0,27 KB,,2026-04-30T19:08:29,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=7469&&companyFlag=0,RDF;XML;CSV;JSON,154.0,78 KB,,2026-04-30T19:09:11,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=7455&&companyFlag=0,RDF;XML;CSV;JSON,122.0,66 KB,,2026-04-30T19:15:59,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=7454&&companyFlag=0,RDF;XML;CSV;JSON,210.0,69 KB,,2026-04-30T19:16:41,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=7450&&companyFlag=0,RDF;XML;CSV;JSON,26.0,1 MB,,2026-04-30T19:17:50,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=7448&&companyFlag=0,RDF;XML;CSV;JSON,26.0,811 KB,,2026-04-30T19:18:32,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=7446&&companyFlag=0,RDF;XML;CSV;JSON,26.0,1 MB,,2026-04-30T19:19:42,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=7445&&companyFlag=0,RDF;XML;CSV;JSON,26.0,1013 KB,,2026-04-30T19:20:24,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AE9002015018&&companyFlag=0,,,,,2026-04-30T19:23:15,download_formats;record_count;data_size;field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=7421&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,86.0,34 KB,,2026-04-30T19:25:20,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AE2002015001&&companyFlag=0,,,,,2026-04-30T19:28:12,download_formats;record_count;data_size;field_names
+https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=2126&&companyFlag=0,,,,,2026-04-30T19:31:59,download_formats;record_count;data_size;field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=7296&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,201.0,46 KB,,2026-04-30T19:40:09,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=5963&&companyFlag=0,XML;JSON,,-,dt_regist_time;jhpt_delete;jhpt_update_time;st_app_id;st_app_name;st_app_status;st_app_url;ywsj_date;业务时间;主键;删除标志位;应用URL;应用程式名称;应用程式状态;注册时间,2026-04-30T19:46:59,record_count
+https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=7262&&companyFlag=0,,,,,2026-04-30T20:17:27,download_formats;record_count;data_size;field_names
+https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=7263&&companyFlag=0,,,,,2026-04-30T20:18:01,download_formats;record_count;data_size;field_names
+https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=7264&&companyFlag=0,,,,,2026-04-30T20:18:36,download_formats;record_count;data_size;field_names
+https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=5968&&companyFlag=0,XML;JSON,,-,jhpt_update_time;st_desc;st_stuff_name;ywsj_date;业务时间;材料名称;材料描述,2026-04-30T20:31:03,record_count
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=7177&&companyFlag=0,RDF;XML;CSV;JSON,235.0,28 KB,,2026-04-30T20:45:41,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=7154&&companyFlag=0,,,,,2026-04-30T20:48:07,download_formats;record_count;data_size;field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=7146&&companyFlag=0,,,,,2026-04-30T20:53:58,download_formats;record_count;data_size;field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=7145&&companyFlag=0,,,,,2026-04-30T20:55:00,download_formats;record_count;data_size;field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=7141&&companyFlag=0,,,,,2026-04-30T20:55:35,download_formats;record_count;data_size;field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=7131&&companyFlag=0,,,,,2026-04-30T20:56:10,download_formats;record_count;data_size;field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=7130&&companyFlag=0,,,,,2026-04-30T20:56:44,download_formats;record_count;data_size;field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=7129&&companyFlag=0,,,,,2026-04-30T20:57:18,download_formats;record_count;data_size;field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=7128&&companyFlag=0,,,,,2026-04-30T20:57:52,download_formats;record_count;data_size;field_names
+https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=685&&companyFlag=0,,,,,2026-04-30T20:59:56,download_formats;record_count;data_size;field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=7115&&companyFlag=0,,,,,2026-04-30T21:00:30,download_formats;record_count;data_size;field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=7126&&companyFlag=0,,,,,2026-04-30T21:01:04,download_formats;record_count;data_size;field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=7127&&companyFlag=0,,,,,2026-04-30T21:01:38,download_formats;record_count;data_size;field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=7063&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,13.0,6 KB,,2026-04-30T21:12:19,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=6861&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,73.0,54 KB,,2026-04-30T21:17:19,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=6870&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,34.0,35 KB,,2026-04-30T21:22:08,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=7071&&companyFlag=0,RDF;CSV;XLSX,37.0,4 KB,,2026-04-30T21:24:36,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=6847&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,43.0,18 KB,,2026-04-30T22:02:43,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=6851&&companyFlag=0,RDF;XML;CSV;JSON,58.0,10 KB,,2026-04-30T22:03:54,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=6882&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,6.0,2 KB,,2026-04-30T22:08:48,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AA5002015022&&companyFlag=0,RDF;CSV;XLSX,25046.0,8 MB,,2026-04-30T22:19:11,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AA5002015011&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,4141.0,1 MB,,2026-04-30T22:22:09,field_names

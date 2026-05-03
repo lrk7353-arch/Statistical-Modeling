@@ -1,0 +1,8 @@
+﻿数据集ID,detail_url,download_formats,record_count,data_size,field_names,detail_spatial_scope,detail_time_scope,scrape_error,scraped_at
+2c90e4f36343477901636340b96f013e,https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=2c90e4f36343477901636340b96f013e&&companyFlag=0,,83,2 KB,,本市,2018年-2020年,,2026-05-01T17:53:50
+AC5002018005,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AC5002018005&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,143,127 KB,,本市,2018年-2024年,,2026-05-01T17:54:45
+AA9002017008,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AA9002017008&&companyFlag=0,,-,-,主管部门;事项名称;办理依据;办理程序;收费标准;条线;申办条件;申办表格;申请材料,本市,2017年-2025年,,2026-05-01T18:03:36
+AH0002017004,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AH0002017004&&companyFlag=0,,94,39 KB,产品品牌;生产企业;编号,本市,2018年-2018年,,2026-05-01T18:08:39
+AC5002017020,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AC5002017020&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,325,123 KB,,本市,2017年-2024年,,2026-05-01T18:12:37
+AC5002017007,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AC5002017007&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,350,127 KB,,本市,2017年-2024年,,2026-05-01T18:14:41
+AC5002017004,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AC5002017004&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,105,108 KB,,本市,2017年-2024年,,2026-05-01T18:17:59

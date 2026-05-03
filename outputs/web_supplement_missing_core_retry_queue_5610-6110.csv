@@ -1,0 +1,17 @@
+﻿detail_url,download_formats,record_count,data_size,field_names,scraped_at,missing_core_fields
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=12766&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,19.0,4 KB,,2026-04-30T07:31:44,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=12755&&companyFlag=0,XLSX,14.0,9 KB,,2026-04-30T07:34:23,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=10468&&companyFlag=0,,16.0,1 KB,,2026-04-30T07:36:48,download_formats;field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=12103&&companyFlag=0,RDF;XML;CSV;JSON,11.0,18 KB,,2026-04-30T09:22:11,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=12007&&companyFlag=0,RDF;XML;CSV;JSON,259.0,44 KB,,2026-04-30T09:38:49,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1434&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,683.0,1 MB,,2026-04-30T09:56:07,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=11522&&companyFlag=0,RDF;CSV;XLSX,9.0,2 KB,,2026-04-30T10:00:51,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=11411&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,507.0,36 KB,,2026-04-30T10:04:23,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=11461&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,866.0,26 KB,,2026-04-30T10:15:11,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=11464&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,95.0,24 KB,,2026-04-30T10:15:58,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=11469&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,507.0,33 KB,,2026-04-30T10:16:45,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=11467&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,18.0,5 KB,,2026-04-30T10:18:23,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=11468&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,19.0,5 KB,,2026-04-30T10:19:10,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=11414&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,22.0,1 KB,,2026-04-30T10:24:50,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=11456&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,1148.0,140 KB,,2026-04-30T10:33:01,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=11465&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,7.0,34 KB,,2026-04-30T10:35:15,field_names

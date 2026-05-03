@@ -1,0 +1,11 @@
+Recrawl from success offset 7610 prepared
+created_at=2026-05-01T11:43:16
+backup_dir=\\wsl.localhost\Ubuntu\home\konglingrui\Statistic\Statistics Collect\outputs\backups\recrawl_from_7610_20260501_114308
+old_success_count=8628
+new_success_count=7610
+master_rows_to_recollect=2183
+next_dataframe_index=7610
+next_excel_row_estimate=7612
+next_dataset_id=6361
+next_detail_url=https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=6361&&companyFlag=0
+next_name=上海市美术馆名录

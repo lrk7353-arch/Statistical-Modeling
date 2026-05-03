@@ -1,0 +1,6 @@
+﻿condition,threshold,count,share
+全体主分析样本,analysis_main_sample,9540,1.0
+高潜力,PotentialUse_CRITIC_percentile >= 0.70,2862,0.3
+低实际使用,ActualUse_main_percentile <= 0.50,4769,0.49989517819706497
+规则沉睡差距,DormantScore_rule >= 0.30,1909,0.200104821802935
+规则沉睡候选,PotentialUse >= 0.70 & ActualUse <= 0.50 & DormantScore >= 0.30,1111,0.11645702306079665

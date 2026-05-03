@@ -1,0 +1,79 @@
+上海公共数据网页字段采集批次报告
+
+{
+  "range": "4110-4610",
+  "checked_at": "2026-04-30T22:58:30",
+  "success_rows": 500,
+  "failed_rows_seen": 0,
+  "elapsed_seconds": 11057.0,
+  "elapsed_minutes": 184.28,
+  "avg_seconds_per_row": 22.16,
+  "first_scraped_at": "2026-04-29 21:09:27",
+  "last_scraped_at": "2026-04-30 00:13:44",
+  "missing_download_formats": 2,
+  "missing_record_count": 3,
+  "missing_data_size": 2,
+  "missing_field_names": 9,
+  "zero_field_count": 9,
+  "mojibake_rows": 0,
+  "core_complete_rows": 490,
+  "core_complete_rate": 0.98
+}
+
+最近 stdout 摘要:
+_count,data_size,field_names
+[retry] 7145 targeted retry for: download_formats,record_count,data_size,field_names
+[retry] 7145 reload retry for: download_formats,record_count,data_size,field_names
+[retry] 7141 targeted retry for: download_formats,record_count,data_size,field_names
+[retry] 7141 reload retry for: download_formats,record_count,data_size,field_names
+[retry] 7131 targeted retry for: download_formats,record_count,data_size,field_names
+[retry] 7131 reload retry for: download_formats,record_count,data_size,field_names
+[retry] 7130 targeted retry for: download_formats,record_count,data_size,field_names
+[retry] 7130 reload retry for: download_formats,record_count,data_size,field_names
+[retry] 7129 targeted retry for: download_formats,record_count,data_size,field_names
+[retry] 7129 reload retry for: download_formats,record_count,data_size,field_names
+[retry] 7128 targeted retry for: download_formats,record_count,data_size,field_names
+[retry] 7128 reload retry for: download_formats,record_count,data_size,field_names
+[retry] 685 targeted retry for: download_formats,record_count,data_size,field_names
+[retry] 685 reload retry for: download_formats,record_count,data_size,field_names
+[retry] 7115 targeted retry for: download_formats,record_count,data_size,field_names
+[retry] 7115 reload retry for: download_formats,record_count,data_size,field_names
+[retry] 7126 targeted retry for: download_formats,record_count,data_size,field_names
+[retry] 7126 reload retry for: download_formats,record_count,data_size,field_names
+[retry] 7127 targeted retry for: download_formats,record_count,data_size,field_names
+[retry] 7127 reload retry for: download_formats,record_count,data_size,field_names
+[restart] avg_last_100=26.8s > 25.0s; restarting Chrome
+[retry] 6861 targeted retry for: field_names
+[retry] 6861 reload retry for: field_names
+[retry] 6870 targeted retry for: field_names
+[retry] 6870 reload retry for: field_names
+[restart] avg_last_100=25.4s > 25.0s; restarting Chrome
+[retry] 6847 targeted retry for: field_names
+[retry] 6847 reload retry for: field_names
+[retry] 6851 targeted retry for: field_names
+[retry] 6851 reload retry for: field_names
+[retry] 6882 targeted retry for: field_names
+[retry] 6882 reload retry for: field_names
+[ok] checkpoint: \\wsl.localhost\Ubuntu\home\konglingrui\Statistic\Statistics Collect\outputs\web_supplement_checkpoint.csv
+[ok] master synced: \\wsl.localhost\Ubuntu\home\konglingrui\Statistic\Statistics Collect\outputs\dataset_master_enriched.xlsx
+[quality] {"checked_at": "2026-04-30T22:40:32", "rows_checked": 500, "missing_download_formats": 22, "missing_field_names": 49, "zero_field_count": 49, "mojibake_rows": 0, "traditional_residue_rows": 0, "noise_field_rows": 0, "suspicious_field_rows": 0}
+[quality] report: \\wsl.localhost\Ubuntu\home\konglingrui\Statistic\Statistics Collect\outputs\batch_quality_report.csv
+[batch] 7 done; after_success=7610; new_success=500
+[batch] 8 start; before_success=7610; target=500; remaining=2183
+
+
+最近 stderr 进度:
+detail pages:   7%|         | 36/500 [17:25<4:03:48, 31.53s/it]
+
+核心字段缺失样例:
+            数据集ID                                                                                 detail_url      download_formats  record_count data_size                                                                                                                                         field_names                                                                                               备注  scrape_error          scraped_at
+O8062667812025046 https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=O8062667812025046&&companyFlag=0              XML;JSON           NaN         - business_time;check_date;company_name;is_deleted;issue_content;jhpt_update_time;serial_no;uscc_no;上传时间;业务时间戳;企业名称;删除标志;检查发现的主要问题;检查日期;统一社会信用代码;自增序号                                                                   未识别到数据量；核心详情字段仍缺失：record_count           NaN 2026-04-29 21:22:09
+O5915184212025083 https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=O5915184212025083&&companyFlag=0 RDF;XML;CSV;JSON;XLSX          50.0      2 KB                                                                                                                                                 NaN                                                                   未识别到字段列表；核心详情字段仍缺失：field_names           NaN 2026-04-29 21:24:46
+O5915184212025080 https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=O5915184212025080&&companyFlag=0 RDF;XML;CSV;JSON;XLSX          14.0      1 KB                                                                                                                                                 NaN                                                                   未识别到字段列表；核心详情字段仍缺失：field_names           NaN 2026-04-29 21:26:10
+O1928138422025094 https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=O1928138422025094&&companyFlag=0                   NaN           NaN       NaN                                                                                                                                                 NaN 未识别到格式标签；未识别到字段列表；未识别到数据量；未识别到数据大小；核心详情字段仍缺失：download_formats,record_count,data_size,field_names           NaN 2026-04-29 21:30:15
+O1928138422025093 https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=O1928138422025093&&companyFlag=0                   NaN           NaN       NaN                                                                                                                                                 NaN 未识别到格式标签；未识别到字段列表；未识别到数据量；未识别到数据大小；核心详情字段仍缺失：download_formats,record_count,data_size,field_names           NaN 2026-04-29 21:30:50
+O5915184212025055 https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=O5915184212025055&&companyFlag=0 RDF;XML;CSV;JSON;XLSX       25278.0      2 MB                                                                                                                                                 NaN                                                                   未识别到字段列表；核心详情字段仍缺失：field_names           NaN 2026-04-29 23:28:48
+O1928138382025490 https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=O1928138382025490&&companyFlag=0 RDF;XML;CSV;JSON;XLSX          13.0     11 KB                                                                                                                                                 NaN                                                                   未识别到字段列表；核心详情字段仍缺失：field_names           NaN 2026-04-29 23:42:16
+O1928138382025489 https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=O1928138382025489&&companyFlag=0 RDF;XML;CSV;JSON;XLSX          13.0     11 KB                                                                                                                                                 NaN                                                                   未识别到字段列表；核心详情字段仍缺失：field_names           NaN 2026-04-29 23:42:59
+O1928138382025476 https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=O1928138382025476&&companyFlag=0 RDF;XML;CSV;JSON;XLSX          13.0     11 KB                                                                                                                                                 NaN                                                                   未识别到字段列表；核心详情字段仍缺失：field_names           NaN 2026-04-29 23:47:28
+O1928138382025427 https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=O1928138382025427&&companyFlag=0 RDF;XML;CSV;JSON;XLSX          16.0      5 KB                                                                                                                                                 NaN                                                                   未识别到字段列表；核心详情字段仍缺失：field_names           NaN 2026-04-30 00:04:06

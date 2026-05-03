@@ -1,0 +1,7 @@
+﻿model,expecteduse_raw_col,candidate_count,candidate_share,high_confidence_intersection_with_rule,is_selected_expecteduse_model
+CatBoostRegressor,ExpectedUse_catboost_oof_raw,3,0.00031446540880503143,2,0
+Ridge,ExpectedUse_Ridge_oof_raw,1,0.00010482180293501048,1,0
+RandomForest,ExpectedUse_RandomForest_oof_raw,3,0.00031446540880503143,1,0
+HistGradientBoosting,ExpectedUse_HistGradientBoosting_oof_raw,2,0.00020964360587002095,1,0
+LightGBM,ExpectedUse_LightGBM_oof_raw,2,0.00020964360587002095,1,0
+XGBoost,ExpectedUse_XGBoost_oof_raw,1,0.00010482180293501048,1,1

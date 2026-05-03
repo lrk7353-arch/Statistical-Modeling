@@ -1,0 +1,5 @@
+﻿flag,count,share
+has_time_field_strict,4603,0.48249475890985327
+has_geo_field_strict,3715,0.38941299790356393
+has_meaningful_time_scope,6739,0.7063941299790356
+date_order_anomaly,840,0.0880503144654088

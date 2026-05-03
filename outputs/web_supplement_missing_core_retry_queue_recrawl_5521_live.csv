@@ -1,0 +1,16 @@
+﻿数据集ID,detail_url,download_formats,record_count,data_size,field_names,detail_spatial_scope,detail_time_scope,备注,scraped_at
+6721,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=6721&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,35.0,24 KB,,黄浦区,2020年-2025年,,2026-05-01 12:00:17
+6713,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=6713&&companyFlag=0,RDF;XML;CSV;JSON,69.0,34 KB,,黄浦区,2020年-2023年,未识别到字段列表；核心详情字段仍缺失：field_names,2026-05-01 12:03:20
+6765,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=6765&&companyFlag=0,RDF;CSV;XLSX,32.0,3 KB,,普陀区,2020年-2024年,,2026-05-01 12:06:09
+6762,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=6762&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,8.0,3 KB,,普陀区,2020年-2024年,未识别到字段列表；核心详情字段仍缺失：field_names,2026-05-01 12:07:20
+6764,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=6764&&companyFlag=0,RDF;CSV;XLSX,43.0,10 KB,,普陀区,2020年-2024年,,2026-05-01 12:07:48
+6730,https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=6730&&companyFlag=0,XML;JSON,,-,address;areacode;crossflag;inportant;pcode;prjname;prjnum;prjtype,杨浦区,2020年-2025年,未识别到数据量；核心详情字段仍缺失：record_count,2026-05-01 12:11:20
+6733,https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=6733&&companyFlag=0,XML;JSON,,-,chkdatefrom;chkdateto;sendstatus;tasktype;任务时间止;任务时间起;任务类型;发送状态,杨浦区,2020年-2025年,未识别到数据量；核心详情字段仍缺失：record_count,2026-05-01 12:12:03
+6726,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=6726&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,12.0,4 KB,,普陀区,2025年,未识别到字段列表；核心详情字段仍缺失：field_names,2026-05-01 12:15:35
+2159,https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=2159&&companyFlag=0,XML;JSON,,-,fflt_index;fstr_regionid;fstr_regionname;id;jhpt_delete;jhpt_update_time;living_time;业务时间戳;指数值;指数区域名称;指数区域编码;时间;是否删除;编号,本市,2020年-2025年,未识别到数据量；核心详情字段仍缺失：record_count,2026-05-01 12:19:07
+6625,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=6625&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,123.0,105 KB,,普陀区,2020年-2025年,未识别到字段列表；核心详情字段仍缺失：field_names,2026-05-01 12:21:43
+6647,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=6647&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,132.0,122 KB,,普陀区,2020年-2024年,未识别到字段列表；核心详情字段仍缺失：field_names,2026-05-01 12:25:44
+6627,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=6627&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,1048253.0,6 MB,,普陀区,2020年-2025年,未识别到字段列表；核心详情字段仍缺失：field_names,2026-05-01 12:32:06
+6622,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=6622&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,12.0,49 KB,,普陀区,2022年-2024年,未识别到字段列表；核心详情字段仍缺失：field_names,2026-05-01 12:32:49
+1378,https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=1378&&companyFlag=0,XML;JSON,,-,ENTITY_ID;HEIGHTD;SURVEY_DATE;SURVEY_TYPE;监测值;监测时间;监测类型;设施ID,本市,2020年-2025年,未识别到数据量；核心详情字段仍缺失：record_count,2026-05-01 12:34:00
+6635,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=6635&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,,-,活动id;活动修改时间;活动创建时间;活动名称;活动图标路径;活动开始时间;活动结束时间;活动详细地址;类型名称,普陀区,2020年-2024年,未识别到数据量；核心详情字段仍缺失：record_count,2026-05-01 12:35:40

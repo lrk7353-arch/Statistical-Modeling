@@ -1,0 +1,55 @@
+???????????????
+
+{
+  "checked_at": "2026-05-02T10:16:57",
+  "queue_rows": 2421,
+  "results_rows": 2421,
+  "action_counts": {
+    "upsert": 2419,
+    "skip_success_regression": 2
+  },
+  "new_status_counts": {
+    "success": 2293,
+    "unavailable": 128
+  },
+  "duration_mean": 6.66,
+  "duration_median": 6.86,
+  "duration_max": 28.26,
+  "failed_rows": 0,
+  "recovered_unavailable": 0,
+  "still_unavailable_result_rows": 128,
+  "checkpoint_status_counts": {
+    "success": 9667,
+    "unavailable": 126
+  },
+  "checkpoint_rows": 9793,
+  "checkpoint_unique_ids": 9793,
+  "first4000_success_rows": 4000,
+  "first4000_success_missing_any_core4_after_round2": 19,
+  "first4000_success_missing_by_core4_after_round2": {
+    "download_formats": 14,
+    "record_count": 2,
+    "data_size": 1,
+    "field_names": 10
+  },
+  "first4000_success_missing_any_core6_after_round2": 19,
+  "first4000_success_missing_by_core6_after_round2": {
+    "download_formats": 14,
+    "record_count": 2,
+    "data_size": 1,
+    "field_names": 10,
+    "detail_spatial_scope": 1,
+    "detail_time_scope": 1
+  },
+  "all_success_missing_any_core4_after_round2": 289,
+  "all_success_missing_by_core4_after_round2": {
+    "download_formats": 94,
+    "record_count": 92,
+    "data_size": 33,
+    "field_names": 190
+  },
+  "checkpoint_unavailable_rows": 126,
+  "residual_success_missing_core_result_rows": 17,
+  "residual_success_missing_core_file": "round2_residual_success_missing_core.csv",
+  "remaining_unavailable_file": "round2_remaining_unavailable.csv"
+}

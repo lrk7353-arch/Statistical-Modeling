@@ -1,0 +1,35 @@
+﻿detail_url,download_formats,record_count,data_size,field_names,scraped_at,missing_core_fields
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=11206&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,509.0,35 KB,,2026-04-30T10:49:55,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=11281&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,16.0,7 KB,,2026-04-30T10:58:16,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=11321&&companyFlag=0,RDF;XML;CSV;JSON,16.0,3 KB,,2026-04-30T11:01:18,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=11130&&companyFlag=0,,13.0,20 KB,主键;值班电话;地址;浮点型F,2026-04-30T11:09:41,download_formats
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=11161&&companyFlag=0,,324.0,48 KB,NULL;单位,2026-04-30T11:10:23,download_formats
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=11125&&companyFlag=0,,12.0,24 KB,公开咨询电话;地址;建成时间;建筑面积（平方/公尺）;目前营运状态,2026-04-30T11:16:08,download_formats
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=11124&&companyFlag=0,,14.0,21 KB,企业名称;年度;班组名称;长文本text,2026-04-30T11:16:48,download_formats
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=11123&&companyFlag=0,,13.0,20 KB,NULL;姓名;年度;数值型N,2026-04-30T11:17:27,download_formats
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=11122&&companyFlag=0,,11.0,20 KB,企业名称;企业地址;营业时间,2026-04-30T11:18:06,download_formats
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=11062&&companyFlag=0,RDF;CSV;XLSX,30.0,2 KB,,2026-04-30T11:20:59,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=10941&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,7.0,10 KB,,2026-04-30T11:24:41,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=10861&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,10.0,3 KB,,2026-04-30T11:27:13,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=10863&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,52.0,15 KB,,2026-04-30T11:28:27,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=10487&&companyFlag=0,,184.0,42 KB,主键;主键id;建立日期;数值型N;是否删除;是否可用;计量单位名称,2026-04-30T11:46:10,download_formats
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=10439&&companyFlag=0,,27.0,21 KB,主键;演出名称;演出地点;演出时间,2026-04-30T11:48:29,download_formats
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=10459&&companyFlag=0,,22.0,23 KB,NULL;主键;人员类别;姓名;岗位;所属单位;整型I;每月人员变动情况,2026-04-30T12:00:18,download_formats
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=10453&&companyFlag=0,,109.0,36 KB,主键;何时一级;区;姓名;指导类别;指导项目;授予部门;浮点型F;街道,2026-04-30T12:01:06,download_formats
+https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=10164&&companyFlag=0,,,,,2026-04-30T13:13:48,download_formats;record_count;data_size;field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=10151&&companyFlag=0,RDF;XML;CSV;JSON,21.0,10 KB,,2026-04-30T13:24:11,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=10125&&companyFlag=0,RDF;XML;CSV;JSON,170.0,66 KB,,2026-04-30T13:29:31,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=10032&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,48.0,28 KB,,2026-04-30T13:36:44,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=10031&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,52.0,29 KB,,2026-04-30T13:37:09,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=10011&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,52.0,28 KB,,2026-04-30T13:37:58,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=10007&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,12.0,5 KB,,2026-04-30T13:40:02,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=9926&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,98.0,30 KB,,2026-04-30T13:50:24,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=9922&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,162.0,14 KB,,2026-04-30T13:52:18,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=9921&&companyFlag=0,RDF;XML;CSV;JSON,41.0,26 KB,,2026-04-30T13:52:58,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=9422&&companyFlag=0,RDF;XML;CSV;JSON,,-,BUSI_UPD_TIME;BZ;CF_SJLYDM;ID;XK_FRDB;XK_FR_ZJHM;XK_FR_ZJLX;XK_JDRQ;XK_LYDW;XK_NR;XK_WSH;XK_XDR_GSZC;XK_XDR_LB;XK_XDR_MC;XK_XDR_SHXYM;XK_XDR_SHZZ;XK_XDR_SWDJ;XK_XDR_SYDW;XK_XDR_ZJHM;XK_XDR_ZJLX;XK_XDR_ZZJG;XK_XKBH;XK_XKJG;XK_XKJGDM;XK_XKLB;XK_XKWS;XK_XKZS;XK_YXQZ;XK_YXQZI;XK_ZT,2026-04-30T14:02:07,record_count
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=9381&&companyFlag=0,,,-,,2026-04-30T14:03:36,download_formats;record_count;field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=9327&&companyFlag=0,RDF;XML;CSV;JSON;XLSX,116.0,42 KB,,2026-04-30T14:12:48,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=9201&&companyFlag=0,XML;JSON,,-,bz;dqzt;fddbr;gszch;shzzdjzh;sjlydw;sjlydwtyshxydm;swdjh;sydwzsh;tyshxydm;xkbh;xkjdrq;xkjg;xkjgtyshxydm;事业单位证书号;工商注册号;法定代理人;目前状态;社会组织登记证号;税务登记号码;统一社会信用代码;许可决定日期;许可机关;许可机关统一社会信用代码;许可编号;资料来源单位;资料来源单位统一社会信用代码,2026-04-30T14:16:32,record_count
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=9204&&companyFlag=0,RDF;XML;CSV;JSON,43.0,30 KB,,2026-04-30T14:19:18,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=9206&&companyFlag=0,RDF;XML;CSV;JSON,66.0,32 KB,,2026-04-30T14:20:23,field_names
+https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AB6002018007&&companyFlag=0,,13.0,25 KB,年;指数;月,2026-04-30T14:22:17,download_formats

@@ -1,0 +1,12 @@
+﻿candidate_layer,definition,count,share,intersection_with_rule,jaccard_with_rule
+strict_model_residual_candidate,"严格模型残差候选：ExpectedUse>=0.70, ActualUse<=0.50, DormantScore_model>=0.30",1,0.00010482180293501048,1,0.0009000900090009
+residual_top5_lowuse_candidate,低使用样本中，全样本模型残差 Top 5%,308,0.03228511530398323,90,0.06772009029345373
+residual_top10_lowuse_candidate,低使用样本中，全样本模型残差 Top 10%,587,0.061530398322851156,152,0.09831824062095731
+residual_top20_lowuse_candidate,低使用样本中，全样本模型残差 Top 20%,1106,0.11593291404612159,255,0.12996941896024464
+residual_top30_lowuse_candidate,低使用样本中，全样本模型残差 Top 30%,1572,0.16477987421383647,356,0.15298667812634292
+rule_candidate_model_enhanced_top10,规则候选内部模型残差 Top 10%,112,0.011740041928721174,112,0.10081008100810081
+rule_candidate_model_enhanced_top20,规则候选内部模型残差 Top 20%,223,0.023375262054507337,223,0.2007200720072007
+rule_candidate_model_enhanced_top30,规则候选内部模型残差 Top 30%,334,0.0350104821802935,334,0.30063006300630063
+multi_model_strict_residual_any,任一模型严格残差候选,5,0.0005241090146750524,3,0.0026954177897574125
+multi_model_strict_residual_2plus,至少两个模型同时识别的严格残差候选,4,0.0004192872117400419,2,0.0017969451931716084
+multi_model_strict_residual_3plus,至少三个模型同时识别的严格残差候选,4,0.0004192872117400419,2,0.0017969451931716084

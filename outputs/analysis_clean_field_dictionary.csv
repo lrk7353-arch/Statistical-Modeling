@@ -1,0 +1,32 @@
+﻿field_name,definition
+is_unavailable,详情页或核心网页信息不可用标记
+is_core_complete,核心六字段非空且 scrape_status 为 success
+is_main_analysis_sample,进入 9540 条主分析样本的标记
+is_modeling_candidate,具备进入基础模型训练的候选标记，后续按模型字段再筛选
+analysis_exclusion_reason,不进入主分析样本的原因
+core_missing_fields,缺失的核心字段列表
+has_meaningful_time_scope,detail_time_scope 是否为有效内容时间范围
+date_order_anomaly,首次发布日期晚于最近更新日期或维护跨度为负
+maintenance_span_days_clean,负值设为缺失后的维护跨度
+record_count_clean,解析后的数据量数值
+record_count_log,log1p(record_count_clean)
+data_size_bytes,统一为 bytes 的数据大小
+data_size_log,log1p(data_size_bytes)
+field_count_clean,清洗后的字段数量
+low_field_count_flag,字段词条过少预警，不直接剔除
+suspicious_field_names_flag,字段名疑似污染或异常预警，不直接剔除
+has_time_field_strict,严格口径下字段名中是否存在时间字段
+has_geo_field_strict,严格口径下字段名中是否存在空间或地理字段
+view_count_clean,解析后的浏览量
+download_count_clean,解析后的下载量
+api_call_count_clean,解析后的接口调用量
+log_view_count,log1p(view_count_clean)
+log_download_count,log1p(download_count_clean)
+log_api_call_count,log1p(api_call_count_clean)
+recommended_names_suspicious_flag,推荐数据集名称疑似混入页面样例或字段文本
+recommended_names_disabled_for_graph,推荐名称是否不进入推荐图网络
+rating_comment_disabled_for_model,评分和评论字段是否禁用于主模型
+is_data_interface,数据资源类型是否为数据接口
+is_data_product,数据资源类型是否为数据产品
+is_conditional_open,开放属性是否为有条件开放
+is_unconditional_open,开放属性是否为无条件开放

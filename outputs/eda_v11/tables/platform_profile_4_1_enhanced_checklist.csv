@@ -1,0 +1,20 @@
+﻿v11_4_1_item,table,figure,status
+部门资源供给 Top 20/Pareto,platform_department_pareto.csv,4.1_提供部门资源供给Pareto图Top30.png,done
+部门 x 数据资源类型,platform_department_by_resource_type_top20.csv,4.1_部门与资源类型交叉Top20.png,done
+部门 x 开放属性,platform_department_by_open_attribute_top20.csv,4.1_部门与开放属性交叉Top20.png,done
+部门 x 使用表现,platform_department_usage_summary.csv,4.1_部门使用表现中位数Top30.png,done
+数据领域完整分布,platform_domain_full_vs_main.csv,4.1_数据领域分布全量对比主样本.png,done
+数据领域 x 开放属性,platform_domain_by_open_attribute.csv,4.1_数据领域与开放属性交叉.png,done
+数据领域 x 数据资源类型,platform_domain_by_resource_type.csv,4.1_数据领域与资源类型交叉.png,done
+数据领域 x 更新频率,platform_domain_by_update_frequency.csv,4.1_数据领域与更新频率交叉.png,done
+开放条件 Top 30,platform_open_condition_top30.csv,4.1_开放条件Top30.png,done
+API 申请需求,platform_api_need_apply.csv,4.1_API申请需求分布.png,done
+格式数量分布,platform_format_count.csv,4.1_格式数量分布.png,done
+格式覆盖与共现,platform_format_cooccurrence.csv,4.1_下载格式共现矩阵.png,done
+数据量/数据大小/字段质量,platform_quality_flag_distribution.csv,4.1_数据内容规模与字段质量分布.png,done
+样例可见性/字段说明/质量风险,platform_quality_flag_distribution.csv,4.1_质量风险标记分布.png,done
+空间行政层级,platform_spatial_admin_level.csv,4.1_空间行政层级分布.png,done
+详情页空间范围,platform_detail_spatial_scope_top30.csv,4.1_详情页空间范围Top30.png,done
+时间范围有效性,platform_time_scope_validity.csv,4.1_详情页时间范围有效性.png,done
+发布时间与更新时效,platform_spacetime_flag_distribution.csv,4.1_发布时间与更新时效分布.png,done
+全量样本 vs 主样本分布对比,platform_domain_full_vs_main.csv,4.1_数据领域分布全量对比主样本.png,done

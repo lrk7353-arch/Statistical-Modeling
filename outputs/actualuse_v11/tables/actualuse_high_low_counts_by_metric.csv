@@ -1,0 +1,5 @@
+﻿metric,high_use_count,low_use_count,high_use_share
+ActualUse_type_percentile,4771,4769,0.500104821802935
+ActualUse_equal_type_percentile,4771,4769,0.500104821802935
+ActualUse_depth_type_percentile,4771,4769,0.500104821802935
+ActualUse_global_percentile,4772,4768,0.5002096436058701

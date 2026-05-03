@@ -1,0 +1,79 @@
+上海公共数据网页字段采集批次报告
+
+{
+  "range": "8609-9109",
+  "checked_at": "2026-05-01T17:47:41",
+  "success_rows": 500,
+  "failed_rows_seen": 0,
+  "elapsed_seconds": 4555.0,
+  "elapsed_minutes": 75.92,
+  "avg_seconds_per_row": 9.13,
+  "first_scraped_at": "2026-05-01 16:30:59",
+  "last_scraped_at": "2026-05-01 17:46:54",
+  "missing_download_formats": 2,
+  "missing_record_count": 0,
+  "missing_data_size": 0,
+  "missing_field_names": 0,
+  "zero_field_count": 0,
+  "mojibake_rows": 0,
+  "core_complete_rows": 498,
+  "core_complete_rate": 0.996
+}
+
+最近 stdout 摘要:
+istics Collect\outputs\dataset_master_enriched.xlsx
+[quality] {"checked_at": "2026-05-01T15:29:27", "rows_checked": 500, "missing_download_formats": 5, "missing_field_names": 9, "zero_field_count": 9, "mojibake_rows": 0, "traditional_residue_rows": 0, "noise_field_rows": 0, "suspicious_field_rows": 0}
+[quality] report: \\wsl.localhost\Ubuntu\home\konglingrui\Statistic\Statistics Collect\outputs\batch_quality_report.csv
+[batch] 1 done; after_success=8241; new_success=459
+[batch] 2 start; before_success=8241; target=500; remaining=1552
+[retry] AD4002012009 targeted retry for: download_formats
+[retry] AD4002012009 reload retry for: download_formats
+[retry] AD4002015007 targeted retry for: download_formats
+[retry] AD4002015007 reload retry for: download_formats
+[retry] 1847 targeted retry for: field_names
+[retry] 1847 reload retry for: field_names
+[retry] 1845 targeted retry for: field_names
+[retry] 1845 reload retry for: field_names
+[retry] 1844 targeted retry for: field_names
+[retry] 1844 reload retry for: field_names
+[retry] 1843 targeted retry for: download_formats,field_names
+[retry] 1843 reload retry for: download_formats,field_names
+[retry] 1842 targeted retry for: field_names
+[retry] 1842 reload retry for: field_names
+[retry] 1840 targeted retry for: field_names
+[retry] 1840 reload retry for: field_names
+[retry] 1839 targeted retry for: field_names
+[retry] 1839 reload retry for: field_names
+[retry] 1253 targeted retry for: download_formats
+[retry] 1253 reload retry for: download_formats
+[retry] 1000 targeted retry for: download_formats
+[retry] 1000 reload retry for: download_formats
+[retry] 1815 targeted retry for: field_names
+[retry] 1815 reload retry for: field_names
+[retry] 1001 targeted retry for: download_formats
+[retry] 1001 reload retry for: download_formats
+[retry] 1765 targeted retry for: field_names
+[retry] 1765 reload retry for: field_names
+[retry] 1762 targeted retry for: field_names
+[retry] 1762 reload retry for: field_names
+[retry] 1759 targeted retry for: field_names
+[retry] 1759 reload retry for: field_names
+[retry] 1386 targeted retry for: download_formats
+[retry] 1386 reload retry for: download_formats
+[retry] 1368 targeted retry for: download_formats
+[retry] 1368 reload retry for: download_formats
+[ok] checkpoint: \\wsl.localhost\Ubuntu\home\konglingrui\Statistic\Statistics Collect\outputs\web_supplement_checkpoint.csv
+[ok] master synced: \\wsl.localhost\Ubuntu\home\konglingrui\Statistic\Statistics Collect\outputs\dataset_master_enriched.xlsx
+[quality] {"checked_at": "2026-05-01T16:47:15", "rows_checked": 500, "missing_download_formats": 8, "missing_field_names": 22, "zero_field_count": 22, "mojibake_rows": 0, "traditional_residue_rows": 0, "noise_field_rows": 0, "suspicious_field_rows": 0}
+[quality] report: \\wsl.localhost\Ubuntu\home\konglingrui\Statistic\Statistics Collect\outputs\batch_quality_report.csv
+[batch] 2 done; after_success=8710; new_success=469
+[batch] 3 start; before_success=8710; target=500; remaining=1083
+
+
+最近 stderr 进度:
+detail pages:  82%| | 408/500 [1:00:06<13:07,  8.56s/it]
+
+核心字段缺失样例:
+数据集ID                                                                    detail_url download_formats record_count data_size                                                      field_names                                  备注 scrape_error          scraped_at
+ 1386 https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1386&&companyFlag=0              NaN          178     55 KB 抽查检查内容;抽查检查发现问题;抽查检查日期;抽查检查结果名称;数据来源单位名称;监管主体名称;统一社会信用代码;营业执照注册号 未识别到格式标签；核心详情字段仍缺失：download_formats          NaN 2026-05-01 16:43:01
+ 1368 https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1368&&companyFlag=0              NaN            -         -                                          地址;所属街道高校;机构名称;联系人;联系电话 未识别到格式标签；核心详情字段仍缺失：download_formats          NaN 2026-05-01 16:44:49

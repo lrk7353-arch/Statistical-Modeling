@@ -1,0 +1,76 @@
+上海公共数据网页字段采集批次报告
+
+{
+  "range": "4610-5110",
+  "checked_at": "2026-04-30T22:58:30",
+  "success_rows": 500,
+  "failed_rows_seen": 0,
+  "elapsed_seconds": 11580.0,
+  "elapsed_minutes": 193.0,
+  "avg_seconds_per_row": 23.21,
+  "first_scraped_at": "2026-04-30 00:14:48",
+  "last_scraped_at": "2026-04-30 03:27:48",
+  "missing_download_formats": 0,
+  "missing_record_count": 5,
+  "missing_data_size": 0,
+  "missing_field_names": 2,
+  "zero_field_count": 2,
+  "mojibake_rows": 0,
+  "core_complete_rows": 493,
+  "core_complete_rate": 0.986
+}
+
+最近 stdout 摘要:
+_count,data_size,field_names
+[retry] 7145 targeted retry for: download_formats,record_count,data_size,field_names
+[retry] 7145 reload retry for: download_formats,record_count,data_size,field_names
+[retry] 7141 targeted retry for: download_formats,record_count,data_size,field_names
+[retry] 7141 reload retry for: download_formats,record_count,data_size,field_names
+[retry] 7131 targeted retry for: download_formats,record_count,data_size,field_names
+[retry] 7131 reload retry for: download_formats,record_count,data_size,field_names
+[retry] 7130 targeted retry for: download_formats,record_count,data_size,field_names
+[retry] 7130 reload retry for: download_formats,record_count,data_size,field_names
+[retry] 7129 targeted retry for: download_formats,record_count,data_size,field_names
+[retry] 7129 reload retry for: download_formats,record_count,data_size,field_names
+[retry] 7128 targeted retry for: download_formats,record_count,data_size,field_names
+[retry] 7128 reload retry for: download_formats,record_count,data_size,field_names
+[retry] 685 targeted retry for: download_formats,record_count,data_size,field_names
+[retry] 685 reload retry for: download_formats,record_count,data_size,field_names
+[retry] 7115 targeted retry for: download_formats,record_count,data_size,field_names
+[retry] 7115 reload retry for: download_formats,record_count,data_size,field_names
+[retry] 7126 targeted retry for: download_formats,record_count,data_size,field_names
+[retry] 7126 reload retry for: download_formats,record_count,data_size,field_names
+[retry] 7127 targeted retry for: download_formats,record_count,data_size,field_names
+[retry] 7127 reload retry for: download_formats,record_count,data_size,field_names
+[restart] avg_last_100=26.8s > 25.0s; restarting Chrome
+[retry] 6861 targeted retry for: field_names
+[retry] 6861 reload retry for: field_names
+[retry] 6870 targeted retry for: field_names
+[retry] 6870 reload retry for: field_names
+[restart] avg_last_100=25.4s > 25.0s; restarting Chrome
+[retry] 6847 targeted retry for: field_names
+[retry] 6847 reload retry for: field_names
+[retry] 6851 targeted retry for: field_names
+[retry] 6851 reload retry for: field_names
+[retry] 6882 targeted retry for: field_names
+[retry] 6882 reload retry for: field_names
+[ok] checkpoint: \\wsl.localhost\Ubuntu\home\konglingrui\Statistic\Statistics Collect\outputs\web_supplement_checkpoint.csv
+[ok] master synced: \\wsl.localhost\Ubuntu\home\konglingrui\Statistic\Statistics Collect\outputs\dataset_master_enriched.xlsx
+[quality] {"checked_at": "2026-04-30T22:40:32", "rows_checked": 500, "missing_download_formats": 22, "missing_field_names": 49, "zero_field_count": 49, "mojibake_rows": 0, "traditional_residue_rows": 0, "noise_field_rows": 0, "suspicious_field_rows": 0}
+[quality] report: \\wsl.localhost\Ubuntu\home\konglingrui\Statistic\Statistics Collect\outputs\batch_quality_report.csv
+[batch] 7 done; after_success=7610; new_success=500
+[batch] 8 start; before_success=7610; target=500; remaining=2183
+
+
+最近 stderr 进度:
+detail pages:   7%|         | 36/500 [17:25<4:03:48, 31.53s/it]
+
+核心字段缺失样例:
+            数据集ID                                                                                 detail_url      download_formats  record_count data_size                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        field_names                             备注  scrape_error          scraped_at
+O1928138382025387 https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=O1928138382025387&&companyFlag=0 RDF;XML;CSV;JSON;XLSX           7.0      2 KB                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                NaN 未识别到字段列表；核心详情字段仍缺失：field_names           NaN 2026-04-30 00:22:59
+O1928138402025062 https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=O1928138402025062&&companyFlag=0              XML;JSON           NaN         - OneC编码;ThreeC编码;TowC编码;address;alertid;casecheck;casecode;casesource;casesourcecode;classcode;classname;createdate;createdept;createuser;description;discovertime;equipmentcode;facilitiesauxcode;facilitiesauxname;facilitiescode;facilitiesname;finishtime;gridcode;id;inserttime;isdelete;isreport;oneccode;orangeendtime;patrolcode;perambulateuser;perambulateusername;pointlatitude;pointlongitude;redendtime;registertime;selfdone;srpatrolcode;status;submittime;submituser;threeccode;towccode;updatedate;updateuser;yellowendtime;主键ID;创建人;创建时间;创建部门;删除标志;地址;完成时间;巡查编号;巡视人员名称;巡视员;巡逻编码;情况来源;情况来源编码;情况检查;情况编号;报警id;提交人员;提交时间;插入时间;是否报告;更新人员;更新时间;橙色截止时间;状态;登记时间;类型名称;类型编码;红色结束时间;经度;维度;网格编码;自主实施;覆盖时间;设备代码;设备名称;设备编号;设施辅助编码;辅助设施名称;黄色结束时间 未识别到数据量；核心详情字段仍缺失：record_count           NaN 2026-04-30 02:07:56
+O1928138382025149 https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=O1928138382025149&&companyFlag=0 RDF;XML;CSV;JSON;XLSX          11.0     12 KB                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                NaN 未识别到字段列表；核心详情字段仍缺失：field_names           NaN 2026-04-30 02:16:25
+            14384             https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=14384&&companyFlag=0              XML;JSON           NaN         -                                                                                                                                                                                                                                                                                                                                                                                       accessid;accessprovider;configuration;creator;describe;devicetype;id;intervaltype;jhpt_update_time;metadataversion;modifiedtime;modifier;name;networkway;projectid;projectname;storepolicyconfiguration;timeinterval;transportprotocol;ywsj_date;业务时间;主键;产品名称;传输协议;修改人;修改时间;入网方式;创建人;协议相关配置;数据存储策略相关配置;时间间隔;时间间隔单位;更新时间;物模型版本;设备接入方式;设备接入方式标识;设备类型;项目名称;项目标识 未识别到数据量；核心详情字段仍缺失：record_count           NaN 2026-04-30 02:49:12
+            14383             https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=14383&&companyFlag=0              XML;JSON           NaN         -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  alarmconfigid;alarmname;alarmtime;creator;dsjzx_taskid;id;jhpt_delete;jhpt_update_time;lastalarmsendtime;level;modifiedtime;modifier;ywsj_date;上一次告警发送时间;主键;修改人;修改时间;创建人;创建时间;告警名称;告警时间;告警等级;告警配置标识;批次号;是否删除;更新时间 未识别到数据量；核心详情字段仍缺失：record_count           NaN 2026-04-30 02:49:55
+            14382             https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=14382&&companyFlag=0              XML;JSON           NaN         -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   creator;deviceid;dsjzx_taskid;externaldeviceid;id;jhpt_delete;jhpt_update_time;modifiedtime;modifier;properties;reporttime;timestamp;业务时间戳;主键;修改人;修改时间;创建人;删除标识;批次号;数据;更新时间;设备中心设备标识;设备标识;设备采集时间 未识别到数据量；核心详情字段仍缺失：record_count           NaN 2026-04-30 02:50:38
+            14381             https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=14381&&companyFlag=0              XML;JSON           NaN         -                                                                                                                                                                                                                                                                                                                                                                                                                                businesstime;calculatetime;creator;dsjzx_taskid;exception;formuladefinitionid;formulaid;formulatype;id;jhpt_delete;jhpt_update_time;modifiedtime;modifier;parameterids;score;settleperiod;targetid;versionid;ywsj_data;业务时间;主键;修改人;修改时间;公式定义标识;公式标识;公式类型;创建人;删除状态;参数标识列表;异常信息;批次号;更新时间;版本标识;目标标识;计算周期;计算时间;评估量;采集时间 未识别到数据量；核心详情字段仍缺失：record_count           NaN 2026-04-30 02:51:20

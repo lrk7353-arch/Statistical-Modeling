@@ -1,0 +1,9 @@
+﻿数据集ID,detail_url,download_formats,record_count,data_size,field_names,detail_spatial_scope,detail_time_scope,scrape_error,scraped_at
+AG8002014008,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AG8002014008&&companyFlag=0,,176,181 KB,主要产品;企业名称;地址,本市,2014年-2020年,,2026-05-01T19:12:45
+AG8002014005,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AG8002014005&&companyFlag=0,,16,38 KB,投资数;月份;行业,本市,2017年-2017年,,2026-05-01T19:13:14
+AG8002014002,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AG8002014002&&companyFlag=0,,1727,340 KB,场所名称;场所地址;场所序号;场所类型;行政区划,本市,2024年-2024年,,2026-05-01T19:13:53
+AD4002012006,https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AD4002012006&&companyFlag=0,,15,28 KB,信访接待地址;咨询;所属区;投诉时间安排;投诉电话;投诉的联系方式（网址或电子邮箱）;接待时间安排;来信邮寄地址;电话咨询;网上受理咨询;邮政编码;集团名称,本市,2016年-2016年,,2026-05-01T19:19:57
+10465,https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=10465&&companyFlag=0,,3376,177 KB,,闵行区,2022年-2022年,,2026-05-01T19:20:40
+10462,https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=10462&&companyFlag=0,,97,4 KB,,闵行区,2022年-2022年,,2026-05-01T19:21:06
+10467,https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=10467&&companyFlag=0,,45233,7 MB,,闵行区,2022年-2022年,,2026-05-01T19:21:32
+10474,https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=10474&&companyFlag=0,,509,38 KB,,闵行区,2022年-2022年,,2026-05-01T19:22:49

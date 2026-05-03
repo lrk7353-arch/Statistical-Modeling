@@ -1,0 +1,5 @@
+﻿resource_type,actualuse_raw,indicator,pearson_corr,spearman_corr,spearman_p
+数据产品,ActualUse_product_pca_raw,view_score,0.9568197107399286,0.9560709203285359,0.0
+数据产品,ActualUse_product_pca_raw,download_score,0.9568197107399281,0.9705621232449523,0.0
+数据接口,ActualUse_interface_pca_raw,view_score,0.8864794121508671,0.9472581821514366,0.0
+数据接口,ActualUse_interface_pca_raw,api_call_score,0.886479412150867,0.7777362245700804,0.0

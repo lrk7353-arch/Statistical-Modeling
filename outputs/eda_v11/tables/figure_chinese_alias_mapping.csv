@@ -1,0 +1,12 @@
+﻿old_name,chinese_alias,status
+main_domain_distribution.png,原EDA_主分析样本数据领域分布.png,copied
+top_departments.png,原EDA_提供部门Top30.png,copied
+type_open_stacked.png,原EDA_资源类型与开放属性交叉分布.png,copied
+update_frequency.png,原EDA_更新频率分布.png,copied
+format_prevalence.png,原EDA_下载格式覆盖.png,copied
+usage_log_histograms.png,原EDA_使用指标log分布.png,copied
+usage_lorenz_curves.png,原EDA_使用表现Lorenz曲线.png,copied
+conversion_boxplot_by_type.png,原EDA_转化率箱线图.png,copied
+actualuse_potentialuse_quadrants.png,原EDA_ActualUse与PotentialUse四象限.png,copied
+dormant_score_distribution.png,原EDA_规则沉睡度分布.png,copied
+spearman_correlation_heatmap.png,原EDA_主要特征Spearman相关矩阵.png,copied

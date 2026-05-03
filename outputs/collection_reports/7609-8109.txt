@@ -1,0 +1,40 @@
+上海公共数据网页字段采集批次报告
+
+{
+  "range": "7609-8109",
+  "checked_at": "2026-05-01T15:09:33",
+  "success_rows": 500,
+  "failed_rows_seen": 0,
+  "elapsed_seconds": 12139.0,
+  "elapsed_minutes": 202.32,
+  "avg_seconds_per_row": 24.33,
+  "first_scraped_at": "2026-05-01 11:46:13",
+  "last_scraped_at": "2026-05-01 15:08:32",
+  "missing_download_formats": 2,
+  "missing_record_count": 0,
+  "missing_data_size": 0,
+  "missing_field_names": 1,
+  "zero_field_count": 1,
+  "mojibake_rows": 0,
+  "core_complete_rows": 497,
+  "core_complete_rate": 0.994
+}
+
+最近 stdout 摘要:
+[batch] 1 start; before_success=7782; target=500; remaining=2011
+[retry] 6028 targeted retry for: download_formats
+[retry] 6028 reload retry for: download_formats
+[retry] 5677 targeted retry for: field_names
+[retry] 5677 reload retry for: field_names
+[retry] 2922 targeted retry for: download_formats
+[retry] 2922 reload retry for: download_formats
+
+
+最近 stderr 进度:
+detail pages:  75%|  | 375/500 [51:59<17:24,  8.36s/it]
+
+核心字段缺失样例:
+数据集ID                                                                    detail_url      download_formats record_count data_size                                                                                                         field_names                                  备注 scrape_error          scraped_at
+ 6028 https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=6028&&companyFlag=0                   NaN           61     52 KB                          学校名称;学校地址;学生宿舍寄宿条件（生均面积M2）;所属乡镇、街道、工业区;教学用房教室数（间）;校舍占地面积（亩）;校舍建筑面积（M2）;活动场地（亩）;目前在校学生人数（人） 未识别到格式标签；核心详情字段仍缺失：download_formats          NaN 2026-05-01 14:43:32
+ 5677 https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=5677&&companyFlag=0 RDF;XML;CSV;JSON;XLSX          101     16 KB                                                                                                                 NaN      未识别到字段列表；核心详情字段仍缺失：field_names          NaN 2026-05-01 14:50:21
+ 2922 https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=2922&&companyFlag=0                   NaN            -         - 91310112MACJDH8P9R;change_afnote;change_benote;change_date;change_item;corp_info_ext_id;id;unisc_id;validity;经营范围变更 未识别到格式标签；核心详情字段仍缺失：download_formats          NaN 2026-05-01 15:01:55

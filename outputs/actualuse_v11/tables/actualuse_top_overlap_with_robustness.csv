@@ -1,0 +1,13 @@
+﻿metric_a,metric_b,top_pct,top_n,overlap_count,overlap_rate
+ActualUse_type_percentile,ActualUse_equal_type_percentile,0.01,96,93,0.96875
+ActualUse_type_percentile,ActualUse_equal_type_percentile,0.05,477,463,0.9706498951781971
+ActualUse_type_percentile,ActualUse_equal_type_percentile,0.1,954,936,0.9811320754716981
+ActualUse_type_percentile,ActualUse_equal_type_percentile,0.2,1908,1893,0.9921383647798742
+ActualUse_type_percentile,ActualUse_depth_type_percentile,0.01,96,88,0.9166666666666666
+ActualUse_type_percentile,ActualUse_depth_type_percentile,0.05,477,436,0.9140461215932913
+ActualUse_type_percentile,ActualUse_depth_type_percentile,0.1,954,911,0.9549266247379455
+ActualUse_type_percentile,ActualUse_depth_type_percentile,0.2,1908,1886,0.9884696016771488
+ActualUse_type_percentile,ActualUse_global_percentile,0.01,96,49,0.5104166666666666
+ActualUse_type_percentile,ActualUse_global_percentile,0.05,477,252,0.5283018867924528
+ActualUse_type_percentile,ActualUse_global_percentile,0.1,954,761,0.7976939203354297
+ActualUse_type_percentile,ActualUse_global_percentile,0.2,1908,1898,0.9947589098532494

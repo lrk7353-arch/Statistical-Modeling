@@ -1,0 +1,22 @@
+﻿field_name,definition
+view_score,log 浏览量的 0-1 百分位分数
+download_score,log 下载量的 0-1 百分位分数
+api_call_score,log 接口调用量的 0-1 百分位分数
+ActualUse_type_percentile,类型适配 PCA 后，在数据产品/数据接口内部转为百分位的主 ActualUse 口径
+ActualUse_global_percentile,类型适配 PCA 原始分数合并后的全平台百分位对照口径
+ActualUse_equal_type_percentile,等权稳健性 ActualUse 口径
+ActualUse_depth_type_percentile,使用深度赋权稳健性 ActualUse 口径
+topic_public_value_score,主题公共价值维度分数
+semantic_clarity_score,语义清晰度维度分数
+data_richness_score,数据丰富度维度分数
+machine_readability_score,机器可读性维度分数
+timeliness_score,时效性维度分数
+spatiotemporal_capability_score,时空能力维度分数
+combinability_score,可组合性维度分数
+PotentialUse_CRITIC,七维潜力分数经 CRITIC 客观赋权后的潜在价值
+PotentialUse_CRITIC_percentile,PotentialUse_CRITIC 的 0-1 百分位
+PotentialUse_equal,七维潜力分数等权平均
+PotentialUse_entropy,七维潜力分数熵权法综合得分
+DormantScore_rule,规则沉睡度：PotentialUse_CRITIC_percentile - ActualUse_type_percentile
+rule_dormant_candidate,规则口径沉睡资产候选，阈值为潜力>=0.70、实际<=0.50、差值>=0.30
+dormant_type_rule,基于 PotentialUse 和 ActualUse 中位数的四象限分类

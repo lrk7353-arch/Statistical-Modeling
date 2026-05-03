@@ -1,0 +1,3 @@
+﻿数据资源类型,download_conversion_count,download_conversion_median,download_conversion_mean,download_conversion_max,api_conversion_count,api_conversion_median,api_conversion_mean,api_conversion_max,overall_conversion_count,overall_conversion_median,overall_conversion_mean,overall_conversion_max
+数据产品,4623,0.2297573808827828,0.96852639403803,376.4736842105263,4623,0.0,0.17150271255609653,613.9394703656999,4623,0.23529411764705882,1.1400291065941266,614.0605296343001
+数据接口,4917,0.0,0.03298602739342609,38.96153846153846,4917,0.0,15.533840814921508,57617.13145539906,4917,0.0,15.566826842314935,57617.16901408451

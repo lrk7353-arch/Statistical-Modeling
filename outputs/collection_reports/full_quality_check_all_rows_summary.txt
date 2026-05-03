@@ -1,0 +1,63 @@
+??????????????
+
+{
+  "checked_at": "2026-05-02T10:22:03",
+  "master_rows": 9793,
+  "checkpoint_rows": 9793,
+  "checkpoint_unique_ids": 9793,
+  "status_counts": {
+    "success": 9667,
+    "unavailable": 126
+  },
+  "missing_checkpoint_rows": 0,
+  "blank_status_rows": 0,
+  "failed_rows": 0,
+  "unavailable_rows": 126,
+  "scrape_error_nonempty_rows": 126,
+  "missing_any_core4_rows": 415,
+  "missing_by_core4": {
+    "download_formats": 220,
+    "record_count": 218,
+    "data_size": 159,
+    "field_names": 316
+  },
+  "missing_any_core6_rows": 415,
+  "missing_by_core6": {
+    "download_formats": 220,
+    "record_count": 218,
+    "data_size": 159,
+    "field_names": 316,
+    "detail_spatial_scope": 159,
+    "detail_time_scope": 159
+  },
+  "success_missing_any_core4_rows": 289,
+  "success_missing_by_core4": {
+    "download_formats": 94,
+    "record_count": 92,
+    "data_size": 33,
+    "field_names": 190
+  },
+  "mojibake_rows": 0,
+  "suspicious_field_name_rows": 22,
+  "zero_or_no_field_success_rows": 191,
+  "field_terms_too_few_success_rows": 1068,
+  "third_round_queue_rows": 1488,
+  "third_round_reason_counts": {
+    "field_terms_too_few": 1053,
+    "missing_field_names": 140,
+    "unavailable": 126,
+    "missing_record_count": 55,
+    "missing_download_formats": 36,
+    "missing_download_formats;missing_record_count;missing_data_size;missing_field_names": 33,
+    "missing_download_formats;missing_field_names": 14,
+    "suspicious_field_names": 12,
+    "suspicious_field_names;field_terms_too_few": 8,
+    "missing_download_formats;field_terms_too_few": 5,
+    "missing_download_formats;missing_record_count;missing_field_names": 3,
+    "missing_download_formats;suspicious_field_names": 1,
+    "missing_download_formats;missing_record_count;field_terms_too_few": 1,
+    "missing_download_formats;suspicious_field_names;field_terms_too_few": 1
+  },
+  "queue_file": "round3_recollect_queue_full_quality.csv",
+  "diagnostic_file": "full_quality_diagnostics_all_rows.csv"
+}

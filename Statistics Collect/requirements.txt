@@ -1,0 +1,12 @@
+pandas
+openpyxl
+beautifulsoup4
+selenium
+tqdm
+numpy
+scikit-learn
+websocket-client
+opencc-python-reimplemented
+matplotlib
+seaborn
+tabulate

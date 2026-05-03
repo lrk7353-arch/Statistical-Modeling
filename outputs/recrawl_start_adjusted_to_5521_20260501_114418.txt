@@ -1,0 +1,10 @@
+Adjusted recrawl start to include id=5521
+created_at=2026-05-01T11:44:26
+backup_dir=\\wsl.localhost\Ubuntu\home\konglingrui\Statistic\Statistics Collect\outputs\backups\adjust_recollect_start_5521_20260501_114418
+checkpoint_success_count=7609
+rows_to_recollect=2184
+next_dataframe_index=7609
+next_excel_row_estimate=7611
+next_dataset_id=5521
+next_detail_url=https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=5521&&companyFlag=0
+next_name=徐汇区徐家汇街道居委信息

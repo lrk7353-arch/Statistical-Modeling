@@ -1,0 +1,100 @@
+上海公共数据网页字段采集批次报告
+
+{
+  "range": "8109-8609",
+  "checked_at": "2026-05-01T16:31:37",
+  "success_rows": 500,
+  "failed_rows_seen": 0,
+  "elapsed_seconds": 4930.0,
+  "elapsed_minutes": 82.17,
+  "avg_seconds_per_row": 9.88,
+  "first_scraped_at": "2026-05-01 15:08:40",
+  "last_scraped_at": "2026-05-01 16:30:50",
+  "missing_download_formats": 9,
+  "missing_record_count": 0,
+  "missing_data_size": 0,
+  "missing_field_names": 14,
+  "zero_field_count": 14,
+  "mojibake_rows": 0,
+  "core_complete_rows": 481,
+  "core_complete_rate": 0.962
+}
+
+最近 stdout 摘要:
+[batch] 1 start; before_success=7782; target=500; remaining=2011
+[retry] 6028 targeted retry for: download_formats
+[retry] 6028 reload retry for: download_formats
+[retry] 5677 targeted retry for: field_names
+[retry] 5677 reload retry for: field_names
+[retry] 2922 targeted retry for: download_formats
+[retry] 2922 reload retry for: download_formats
+[retry] 2438 targeted retry for: download_formats,field_names
+[retry] 2438 reload retry for: download_formats,field_names
+[retry] 2409 targeted retry for: download_formats,field_names
+[retry] 2409 reload retry for: download_formats,field_names
+[retry] 2399 targeted retry for: download_formats,field_names
+[retry] 2399 reload retry for: download_formats,field_names
+[ok] checkpoint: \\wsl.localhost\Ubuntu\home\konglingrui\Statistic\Statistics Collect\outputs\web_supplement_checkpoint.csv
+[ok] master synced: \\wsl.localhost\Ubuntu\home\konglingrui\Statistic\Statistics Collect\outputs\dataset_master_enriched.xlsx
+[quality] {"checked_at": "2026-05-01T15:29:27", "rows_checked": 500, "missing_download_formats": 5, "missing_field_names": 9, "zero_field_count": 9, "mojibake_rows": 0, "traditional_residue_rows": 0, "noise_field_rows": 0, "suspicious_field_rows": 0}
+[quality] report: \\wsl.localhost\Ubuntu\home\konglingrui\Statistic\Statistics Collect\outputs\batch_quality_report.csv
+[batch] 1 done; after_success=8241; new_success=459
+[batch] 2 start; before_success=8241; target=500; remaining=1552
+[retry] AD4002012009 targeted retry for: download_formats
+[retry] AD4002012009 reload retry for: download_formats
+[retry] AD4002015007 targeted retry for: download_formats
+[retry] AD4002015007 reload retry for: download_formats
+[retry] 1847 targeted retry for: field_names
+[retry] 1847 reload retry for: field_names
+[retry] 1845 targeted retry for: field_names
+[retry] 1845 reload retry for: field_names
+[retry] 1844 targeted retry for: field_names
+[retry] 1844 reload retry for: field_names
+[retry] 1843 targeted retry for: download_formats,field_names
+[retry] 1843 reload retry for: download_formats,field_names
+[retry] 1842 targeted retry for: field_names
+[retry] 1842 reload retry for: field_names
+[retry] 1840 targeted retry for: field_names
+[retry] 1840 reload retry for: field_names
+[retry] 1839 targeted retry for: field_names
+[retry] 1839 reload retry for: field_names
+[retry] 1253 targeted retry for: download_formats
+[retry] 1253 reload retry for: download_formats
+[retry] 1000 targeted retry for: download_formats
+[retry] 1000 reload retry for: download_formats
+[retry] 1815 targeted retry for: field_names
+[retry] 1815 reload retry for: field_names
+[retry] 1001 targeted retry for: download_formats
+[retry] 1001 reload retry for: download_formats
+[retry] 1765 targeted retry for: field_names
+[retry] 1765 reload retry for: field_names
+[retry] 1762 targeted retry for: field_names
+[retry] 1762 reload retry for: field_names
+[retry] 1759 targeted retry for: field_names
+[retry] 1759 reload retry for: field_names
+
+
+最近 stderr 进度:
+detail pages:  80%|  | 399/500 [1:01:43<13:52,  8.24s/it]
+
+核心字段缺失样例:
+       数据集ID                                                                            detail_url      download_formats record_count data_size                                                                         field_names                                                       备注 scrape_error          scraped_at
+        2438         https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=2438&&companyFlag=0                   NaN          290     15 KB                                                                                 NaN 未识别到格式标签；未识别到字段列表；核心详情字段仍缺失：download_formats,field_names          NaN 2026-05-01 15:12:29
+        2409         https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=2409&&companyFlag=0                   NaN        30124      1 MB                                                                                 NaN 未识别到格式标签；未识别到字段列表；核心详情字段仍缺失：download_formats,field_names          NaN 2026-05-01 15:14:20
+        2399         https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=2399&&companyFlag=0                   NaN         5342    240 KB                                                                                 NaN 未识别到格式标签；未识别到字段列表；核心详情字段仍缺失：download_formats,field_names          NaN 2026-05-01 15:14:46
+AD4002012009 https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AD4002012009&&companyFlag=0                   NaN         1081    216 KB                                                              发证单位;发证日期;姓名;证书名称;证书编号                      未识别到格式标签；核心详情字段仍缺失：download_formats          NaN 2026-05-01 15:50:36
+AD4002015007 https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=AD4002015007&&companyFlag=0                   NaN         1082    124 KB                                                                         姓名;执业单位;注册号                      未识别到格式标签；核心详情字段仍缺失：download_formats          NaN 2026-05-01 15:51:05
+        1847         https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1847&&companyFlag=0 RDF;XML;CSV;JSON;XLSX           44     12 KB                                                                                 NaN                           未识别到字段列表；核心详情字段仍缺失：field_names          NaN 2026-05-01 15:54:22
+        1845         https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1845&&companyFlag=0                  XLSX          104     37 KB                                                                                 NaN                           未识别到字段列表；核心详情字段仍缺失：field_names          NaN 2026-05-01 15:55:00
+        1844         https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1844&&companyFlag=0      RDF;XML;CSV;JSON          106     65 KB                                                                                 NaN                           未识别到字段列表；核心详情字段仍缺失：field_names          NaN 2026-05-01 15:55:30
+        1843         https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1843&&companyFlag=0                   NaN           72     83 KB                                                                                 NaN 未识别到格式标签；未识别到字段列表；核心详情字段仍缺失：download_formats,field_names          NaN 2026-05-01 15:55:59
+        1842         https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1842&&companyFlag=0      RDF;XML;CSV;JSON           74    163 KB                                                                                 NaN                           未识别到字段列表；核心详情字段仍缺失：field_names          NaN 2026-05-01 15:56:29
+        1840         https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1840&&companyFlag=0 RDF;XML;CSV;JSON;XLSX           12     21 KB                                                                                 NaN                           未识别到字段列表；核心详情字段仍缺失：field_names          NaN 2026-05-01 15:57:07
+        1839         https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1839&&companyFlag=0 RDF;XML;CSV;JSON;XLSX           12     22 KB                                                                                 NaN                           未识别到字段列表；核心详情字段仍缺失：field_names          NaN 2026-05-01 15:57:37
+        1253         https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1253&&companyFlag=0                   NaN         5394    586 KB                                                            内水位;外水位;数据日志时间;水闸名称;水闸编号                      未识别到格式标签；核心详情字段仍缺失：download_formats          NaN 2026-05-01 15:58:06
+        1000         https://data.sh.gov.cn/view/detail/index.html?type=jk&&id=1000&&companyFlag=0                   NaN       724470     42 MB endtime;newscontent;newslinkurl;newsname;newssendtime;newstype;relatcolumn;subtitle                      未识别到格式标签；核心详情字段仍缺失：download_formats          NaN 2026-05-01 15:59:35
+        1815         https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1815&&companyFlag=0 RDF;XML;CSV;JSON;XLSX           14     20 KB                                                                                 NaN                           未识别到字段列表；核心详情字段仍缺失：field_names          NaN 2026-05-01 16:03:27
+        1001         https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1001&&companyFlag=0                   NaN          717    132 KB                                                           主体简称;农场名称;经营者姓名;联系电话;详细地址                      未识别到格式标签；核心详情字段仍缺失：download_formats          NaN 2026-05-01 16:06:55
+        1765         https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1765&&companyFlag=0 RDF;XML;CSV;JSON;XLSX           26     12 KB                                                                                 NaN                           未识别到字段列表；核心详情字段仍缺失：field_names          NaN 2026-05-01 16:09:13
+        1762         https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1762&&companyFlag=0 RDF;XML;CSV;JSON;XLSX           20     10 KB                                                                                 NaN                           未识别到字段列表；核心详情字段仍缺失：field_names          NaN 2026-05-01 16:10:02
+        1759         https://data.sh.gov.cn/view/detail/index.html?type=cp&&id=1759&&companyFlag=0 RDF;XML;CSV;JSON;XLSX          366     29 KB                                                                                 NaN                           未识别到字段列表；核心详情字段仍缺失：field_names          NaN 2026-05-01 16:10:40

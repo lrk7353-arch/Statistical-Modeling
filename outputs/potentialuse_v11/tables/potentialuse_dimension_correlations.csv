@@ -1,0 +1,8 @@
+﻿dimension,dimension_cn,spearman_with_potentialuse,p_value
+machine_readability_score,机器可读性,0.609173968120294,0.0
+combinability_score,可组合性,0.5449723329068629,0.0
+spatiotemporal_capability_score,时空能力,0.45103686629887463,0.0
+semantic_clarity_score,语义清晰度,0.31879293502512307,2.7465486659312566e-224
+topic_public_value_score,主题公共价值,0.2988988244343721,4.0277999665084345e-196
+data_richness_score,数据丰富度,0.11576216872761191,7.988336467221938e-30
+timeliness_score,时效性,0.09659094781598296,3.2241012222154163e-21
