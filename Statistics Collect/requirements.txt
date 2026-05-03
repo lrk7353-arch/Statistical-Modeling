@@ -10,3 +10,7 @@ opencc-python-reimplemented
 matplotlib
 seaborn
 tabulate
+xgboost
+lightgbm
+catboost
+shap
